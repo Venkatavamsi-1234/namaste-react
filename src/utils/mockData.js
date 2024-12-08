@@ -14,7 +14,7 @@ const resList=[
           "Portuguese",
           "Continental"
         ],
-        "avgRating": 4.5,
+        "avgRating": 3.5,
         "parentId": "371281",
         "avgRatingString": "4.5",
         "totalRatingsString": "54K+",
@@ -412,7 +412,7 @@ const resList=[
           "Bakery",
           "Beverages"
         ],
-        "avgRating": 4.7,
+        "avgRating": 3.7,
         "parentId": "1040",
         "avgRatingString": "4.7",
         "totalRatingsString": "5.5K+",
@@ -737,7 +737,7 @@ const resList=[
           "Chinese",
           "North Indian"
         ],
-        "avgRating": 4.3,
+        "avgRating": 3.8,
         "parentId": "332",
         "avgRatingString": "4.3",
         "totalRatingsString": "8.0K+",
@@ -834,7 +834,7 @@ const resList=[
           "Thalis",
           "Biryani"
         ],
-        "avgRating": 4.6,
+        "avgRating": 3.6,
         "parentId": "76139",
         "avgRatingString": "4.6",
         "totalRatingsString": "8.5K+",
